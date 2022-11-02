@@ -1,0 +1,17 @@
+.hemon-img
+{
+    height: 100vh;
+    background: url(../../../Assets/bgimg.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: top;
+    position: relative;
+}
+.hemon-content
+{
+    position: absolute;
+    top: 40%;
+}
+.hemon-content p{
+    size: 20px;
+}

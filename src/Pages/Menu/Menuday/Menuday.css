@@ -1,0 +1,19 @@
+.og
+{
+    display: inline-block;
+    justify-content: space-between;
+    margin-left: 200px;
+    
+}
+.of
+{
+    display: inline-block;
+    margin-left: 400px;
+    margin-bottom: 20px;
+}
+.heading-second
+{
+    display: flex;
+    justify-content: center;
+}
+

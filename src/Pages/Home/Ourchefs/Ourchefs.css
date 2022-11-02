@@ -1,0 +1,34 @@
+.chef-img
+{
+    background-image: url(../../../Assets/chef.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 85vh;
+    position: relative;
+}
+.chef-content {
+    position: absolute;
+    bottom: 5%;
+    padding: 10px;
+    background-color: var(--color-primary);
+    cursor: pointer;
+}
+
+.chef-info h4 {
+    text-transform: uppercase;
+}
+
+.chef-info p {
+    padding-top: 10px;
+    }
+.grid-container
+{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+    gap: 30px;
+}
+.py-md
+{
+    padding: 50px ;
+}
